@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuperar Nombre</title>
+    <script src="../javascript/scripts2.js" defer></script>
+    <link rel="stylesheet" href="../css/style2.css">
+</head>
+<body>
+    <center><img div class = "logo" src = "../media/Logo.png"></center>
+    <div class = Preguntas>
+    <h1 id="welcomeMessage"></h1>
+
+    <script>
+        // Con esto recupero el nombre del localstorage (basicamente del nombre que he puesto en el panel de texto en el html anterior)
+        const storedName = localStorage.getItem('userName');
+
+        // Con estye if y con este else recupero el nombre que he puesto antes y lo junto en una frase, si he puesto cualquier nombre o letra se juntara con un "Bienvendio, en cambio si no he puesto nada saldra un mensaje de que no se a guardado ningun nombre"
+        if (storedName) {
+            document.getElementById('welcomeMessage').textContent = `Bienvenido ${storedName}!`;
+        } else {
+            document.getElementById('welcomeMessage').textContent = 'No se ha guardado ningún nombre.';
+        }
+    </script>
+    
+      <button onclick="printQuestions()"> Generar preguntas</button>
+
+      <div id="question"></div>
+    
+      <button onclick="Correction()"> Comprobar respuesta</button>
+</div>
+</body>
+</html>

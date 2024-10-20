@@ -1,0 +1,59 @@
+.logo {
+    width: 150px;
+    display: flex;
+    right: 50%;
+}
+
+body {
+    
+    background-image: url(https://i.pinimg.com/originals/b3/1d/0c/b31d0c768f155fc8d2396df445284280.gif);
+    background-attachment: fixed;
+}
+.contenedor {
+    font-family: Arial, sans-serif;
+    background-color: rgba(97, 252, 36, 0.8); 
+    color: #333;
+    text-align: center;
+    width: 17%;
+    max-width: 600px;
+    margin-top: 10%;
+    margin-left: 41%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+button{
+
+    border: 0;
+    background-image: linear-gradient(
+        150deg,
+        #fcebe2,
+        rgb(235, 92, 10),
+        #ff2600
+    );
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 17px;
+    cursor: pointer; 
+    transition: .3s;
+    
+}
+
+button span {
+    font-size: small ;
+    background-color: #111;
+    padding: 10px 64px;
+    border-radius: 8px; 
+    transition: .7s; 
+
+}
+
+button:hover span {
+    background: none; 
+}
+
+button:active {
+    transform: scale(0.9);
+
+}

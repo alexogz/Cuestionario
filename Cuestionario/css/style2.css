@@ -1,0 +1,24 @@
+.logo {
+    width: 150px;
+    display: flex;
+    right: 50%;
+}
+
+body {
+    
+    background-image: url(https://i.pinimg.com/originals/b3/1d/0c/b31d0c768f155fc8d2396df445284280.gif);
+    background-attachment: fixed;
+}
+.Preguntas {
+    font-family: Arial, sans-serif;
+    background-color: rgba(97, 252, 36, 0.8); 
+    color: #333;
+    text-align: center;
+    width: 17%;
+    max-width: 600px;
+    margin-top: 10%;
+    margin-left: 41%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    padding: 10px;
+}

@@ -1,0 +1,123 @@
+[
+      {
+        "question": "¿Cómo se llama el padre de Goku?",
+        "answers": {
+          "a": "Raditz",
+          "b": "Bardock",
+          "c": "Vegeta",
+          "d": "Nappa"
+        },
+        "correct": "b"
+      },
+      {
+        "question": "¿Quién es el creador de las esferas del dragón en la Tierra?",
+        "answers": {
+          "a": "Kami-sama",
+          "b": "Karin",
+          "c": "Dende",
+          "d": "Kaio del Norte"
+        },
+        "correct": "a"
+      },
+      {
+        "question": "¿Cuál es la raza de Piccolo?",
+        "answers": {
+          "a": "Saiyajin",
+          "b": "Terrícola",
+          "c": "Namekiano",
+          "d": "Tsufur"
+        },
+        "correct": "c"
+      },
+      {
+        "question": "¿Qué planeta destruyó Freezer?",
+        "answers": {
+          "a": "Planeta Vegeta",
+          "b": "Planeta Tierra",
+          "c": "Planeta Namek",
+          "d": "Planeta Sadala"
+        },
+        "correct": "a"
+      },
+      {
+        "question": "¿Cómo se llama la primera transformación de Goku en Super Saiyajin?",
+        "answers": {
+          "a": "Super Saiyajin 2",
+          "b": "Super Saiyajin Dios",
+          "c": "Super Saiyajin",
+          "d": "Super Saiyajin Blue"
+        },
+        "correct": "c"
+      },
+      {
+        "question": "¿Quién mató a Krillin en la saga de Freezer?",
+        "answers": {
+          "a": "Ginyu",
+          "b": "Freezer",
+          "c": "Dodoria",
+          "d": "Zarbon"
+        },
+        "correct": "b"
+      },
+      {
+        "question": "¿Qué personaje entrena a Goku en el otro mundo después de su muerte contra Raditz?",
+        "answers": {
+          "a": "Maestro Roshi",
+          "b": "Kami-sama",
+          "c": "Kaio del Norte",
+          "d": "Shenlong"
+        },
+        "correct": "c"
+      },
+      {
+        "question": "¿Cómo se llama el hijo mayor de Goku?",
+        "answers": {
+          "a": "Goten",
+          "b": "Gohan",
+          "c": "Trunks",
+          "d": "Vegeta"
+        },
+        "correct": "b"
+      },
+      {
+        "question": "¿Qué técnica utiliza Vegeta para autodestruirse contra Majin Buu?",
+        "answers": {
+          "a": "Big Bang Attack",
+          "b": "Galick Gun",
+          "c": "Final Explosion",
+          "d": "Final flash"
+        },
+        "correct": "c"
+      },
+      {
+        "question": "¿Quién fue el primer personaje en alcanzar el estado de Super Saiyajin 3?",
+        "answers": {
+          "a": "Gotenks",
+          "b": "Vegeta",
+          "c": "Goku",
+          "d": "Broly"
+        },
+        "correct": "c"
+      },
+      {
+        "question": "¿Cómo se llama el dios de la destrucción del Universo 7?",
+        "answers": {
+          "a": "Bills",
+          "b": "Whis",
+          "c": "Champa",
+          "d": "Vados"
+        },
+        "correct": "a"
+      },
+      {
+        "question": "¿Qué objeto mágico permite a los personajes curarse rápidamente?",
+        "answers": {
+          "a": "Esferas del Dragón",
+          "b": "Semillas del Ermitaño",
+          "c": "Radar del Dragón",
+          "d": "Nube Voladora"
+        },
+        "correct": "b"
+      }
+    ]
+  
